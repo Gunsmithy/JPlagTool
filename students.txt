@@ -1,0 +1,7 @@
+https://github.com/Gunsmithy/JPlagC2-1-Original.git
+https://github.com/Gunsmithy/JPlagC2-2-Identical.git
+https://github.com/Gunsmithy/JPlagC2-3-NameChanged.git
+https://github.com/Gunsmithy/JPlagC2-4-VariablesChanged.git
+https://github.com/Gunsmithy/JPlagC2-5-FormatChanged.git
+https://github.com/Gunsmithy/JPlagC2-6-FunctionChanged.git
+https://github.com/Gunsmithy/JPlagC2-7-Obfuscated.git
