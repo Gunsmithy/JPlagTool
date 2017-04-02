@@ -8,7 +8,6 @@ input=$4
 mkdir $submissions
 cp $input $submissions
 cd $submissions
-for /F "tokens=*" %%A in (%input%) do (git clone %%A)
 while read $githublinks; do
   git clone $githublinks
 done < $input

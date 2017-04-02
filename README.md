@@ -19,9 +19,9 @@
 3. Gather a list of student submission GitHub links like in student.txt  
 4. Keep the list in the same directory as jplag.bat/jplag-2.11.8.jar and name it whatever you like.  
 5. Make the shell script executable with `chmod +x jplag.sh`  
-6. Run the batch file in the following format:  
+6. Run the shell script in the following format:  
 	./jplag.sh "Path to Jplag.jar" "Path to store/read the code submissions" "Path where to store the results" "Name of text file in same directory with GitHub links - NO QUOTES!"  
 	  
 	as an example...  
-	./jplag.sh "~/JPlagTool/jplag-2.11.8.jar" "~/JPlagTool/submissions" "~/JPlagTool/results" "students.txt"  
+	./jplag.sh 'jplag-2.11.8.jar' 'submissions' 'results' 'students.txt'  
 	
