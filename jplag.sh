@@ -9,7 +9,7 @@ input=$4
 mkdir $submissions
 cp $input $submissions
 cd $submissions
-while IFS = read -r githublinks
+while IFS= read -r githublinks
 do
   git clone $githublinks
 done < $input
